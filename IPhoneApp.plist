@@ -20,7 +20,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://150.109.52.5:85/colloa/icon.png</string>
+					<string>https://github.com/cllcall/testa/blob/master/icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -28,7 +28,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://150.109.52.5:85/colloa/icon.png</string>
+					<string>https://github.com/cllcall/testa/blob/master/icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
